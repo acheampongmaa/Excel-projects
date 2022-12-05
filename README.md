@@ -26,7 +26,7 @@ sum of intermitent preventive treatment of malaria in pregnancy
 ![MS Excel](./pic/pregnancy.png)
 
 - Pivot chart analysis with Line chart showing 
-sum of use of use of insecticides trated bed nets
+sum of use of use of insecticides treated bed nets
 ![MS Excel](./pic/treated_bed_net.png)
 
 
